@@ -1,0 +1,636 @@
+dcraw - decode raw digital camera images
+eject - ejects CDs and operates CD-Changers under Linux
+esound-common - Enlightened Sound Daemon - Common files
+libesd0 - Enlightened Sound Daemon - Shared libraries
+jigit - tools for working with jigdo files
+inputattach - utility to connect serial-attached peripherals to the input subsystem
+libavc1394-0 - control IEEE 1394 audio/video devices
+libcdio-cdda0 - library to read and control digital audio CDs
+libcdio-paranoia0 - library to read digital audio CDs with error correction
+libdv4 - software library for DV format digital video (runtime lib)
+libfontenc1 - X11 font encoding library
+libfs6 - X11 Font Services library
+libgphoto2-2 - gphoto2 digital camera library
+libgphoto2-port0 - gphoto2 digital camera port library
+libice-dev - X11 Inter-Client Exchange library (development headers)
+libice6 - X11 Inter-Client Exchange library
+libmtp8 - Media Transfer Protocol (MTP) library
+libmusicbrainz4c2a - Second generation incarnation of the CD Index - library
+libsm-dev - X11 Session Management library (development headers)
+libsm6 - X11 Session Management library
+libtommath0 - multiple-precision integer library [runtime]
+libx11-6 - X11 client-side library
+libx11-data - X11 client-side library
+libx11-dev - X11 client-side library (development headers)
+libxau-dev - X11 authorisation library (development headers)
+libxau6 - X11 authorisation library
+libxaw7 - X11 Athena Widget library
+libxcomposite1 - X11 Composite extension library
+libxdamage1 - X11 damaged region extension library
+libxdmcp-dev - X11 authorisation library (development headers)
+libxdmcp6 - X11 Display Manager Control Protocol library
+libxext-dev - X11 miscellaneous extensions library (development headers)
+libxext6 - X11 miscellaneous extension library
+libxfixes3 - X11 miscellaneous 'fixes' extension library
+libxi6 - X11 Input extension library
+libxinerama1 - X11 Xinerama extension library
+libxkbfile1 - X11 keyboard file manipulation library
+libxmu6 - X11 miscellaneous utility library
+libxmuu1 - X11 miscellaneous micro-utility library
+libxp6 - X Printing Extension (Xprint) client library
+libxpm4 - X11 pixmap library
+libxrandr2 - X11 RandR extension library
+libxrender-dev - X Rendering Extension client library (development files)
+libxrender1 - X Rendering Extension client library
+libxres1 - X11 Resource extension library
+libxss-dev - X11 Screen Saver extension library (development headers)
+libxss1 - X11 Screen Saver extension library
+libxt-dev - X11 toolkit intrinsics library (development headers)
+libxt6 - X11 toolkit intrinsics library
+libxtst6 - X11 Testing -- Resource extension library
+libxv1 - X11 Video extension library
+libxvmc1 - X11 Video extension library
+libxxf86dga1 - X11 Direct Graphics Access extension library
+libxxf86misc1 - X11 XFree86 miscellaneous extension library
+libxxf86vm1 - X11 XFree86 video mode extension library
+pwgen - Automatic Password generation
+seahorse-plugins - seahorse plugins and utilities for encryption in GNOME
+libcryptui0 - the UI library for DBUS functions exported by seahorse
+seahorse - GNOME front end for GnuPG
+texlive-latex-extra - TeX Live: LaTeX supplementary packages
+ubuntu-keyring - GnuPG keys of the Ubuntu archive
+update-motd - superceded by pam_motd in libpam-modules
+xtrans-dev - X transport library (development files)
+digikam - digital photo management application for KDE
+drac-dev - Dynamic Relay Authorization Control (development files)
+kipi-plugins - image manipulation/handling plugins for KIPI aware programs
+libavc1394-dev - control IEEE 1394 audio/video devices (development files)
+libcdio-cdda-dev - library to read and control digital audio CDs (development files)
+libcdio-paranoia-dev - library to read digital audio CDs with error correction (development files)
+libcryptui-dev - the UI library for DBUS functions exported by seahorse (development)
+libdatrie-dev - Development files for double-array trie library
+libdatrie-doc - Documentation files for double-array trie library
+libdatrie1-bin - Programs for double-array trie library
+libdc1394-22 - high level programming interface for IEEE1394 digital camera
+libdc1394-22-dbg - debugging symbols for the libdc1394-22 library
+libdc1394-22-dev - high level programming interface for IEEE1394 digital camera - development
+libdc1394-22-doc - high level programming interface for IEEE1394 digital camera - documentation
+libdmx-dev - X11 Distributed Multihead extension library (development headers)
+libdmx1 - X11 Distributed Multihead extension library
+libdmx1-dbg - X11 Distributed Multihead library (debug package)
+libdv4-dev - software library for DV format digital video (devel files)
+libesd0-dev - Enlightened Sound Daemon - Development files
+libfontenc-dev - X11 font encoding library (development headers)
+libfontenc1-dbg - X11 font encoding library (debug package)
+libfs-dev - X11 Font Services library (development headers)
+libfs6-dbg - X11 Font Services library (debug package)
+libgphoto2-2-dev - gphoto2 digital camera library (development files)
+libice6-dbg - X11 Inter-Client Exchange library (debug package)
+libmtp-dev - Media Transfer Protocol (MTP) development files
+libmtp-doc - Media Transfer Protocol (MTP) library documentation
+libmusicbrainz4-dev - Second generation incarnation of the CD Index - development
+libroman-perl - Perl module for converting between Roman and Arabic numerals
+libsm6-dbg - X11 Session Management library (debug package)
+libtommath-dev - multiple-precision integer library [development files]
+libtommath-docs - multiple-precision integer library [documentation]
+libx11-6-dbg - X11 client-side library (debug package)
+libx11-xcb-dev - Xlib/XCB interface library (development headers)
+libx11-xcb1 - Xlib/XCB interface library
+libx11-xcb1-dbg - Xlib/XCB interface library (debug package)
+libxau6-dbg - X11 authorisation library (debug package)
+libxaw7-dbg - X11 Athena Widget library (debug package)
+libxaw7-dev - X11 Athena Widget library (development headers)
+libxcomposite-dev - X11 Composite extension library (development headers)
+libxcomposite1-dbg - X11 Composite extension library (debug package)
+libxdamage-dev - X11 damaged region extension library (development headers)
+libxdamage1-dbg - X11 damaged region extension library (debug package)
+libxdmcp6-dbg - X11 authorisation library (debug package)
+libxext6-dbg - X11 miscellaneous extensions library (debug package)
+libxfixes-dev - X11 miscellaneous 'fixes' extension library (development headers)
+libxfixes3-dbg - X11 miscellaneous 'fixes' extension library (debug package)
+libxi-dev - X11 Input extension library (development headers)
+libxi6-dbg - X11 Input extension library (debug package)
+libxine1-ffmpeg - MPEG-related plugins for libxine1
+libxinerama-dev - X11 Xinerama extension library (development headers)
+libxinerama1-dbg - X11 Xinerama extension library (debug package)
+libxkbfile-dev - X11 keyboard file manipulation library (development headers)
+libxkbfile1-dbg - X11 keyboard file manipulation library (debug package)
+libxml-regexp-perl - Perl module for regular expressions for XML tokens
+libxmu-dev - X11 miscellaneous utility library (development headers)
+libxmu-headers - X11 miscellaneous utility library headers
+libxmu6-dbg - X11 miscellaneous utility library (debug package)
+libxmuu-dev - X11 miscellaneous micro-utility library (development headers)
+libxmuu1-dbg - X11 miscellaneous micro-utility library (debug package)
+libxp-dev - X Printing Extension (Xprint) client library (development files)
+libxp6-dbg - X Printing Extension (Xprint) client library (unstripped)
+libxpm-dev - X11 pixmap library (development headers)
+libxpm4-dbg - X11 pixmap library (debug package)
+libxrandr-dev - X11 RandR extension library (development headers)
+libxrandr2-dbg - X11 RandR extension library (debug package)
+libxrender1-dbg - X Rendering Extension client library (unstripped)
+libxres-dev - X11 Resource extension library (development headers)
+libxres1-dbg - X11 Resource extension library (debug package)
+libxss1-dbg - X11 Screen Saver extension library (debug package)
+libxt6-dbg - X11 toolkit intrinsics library (debug package)
+libxtst-dev - X11 Record extension library (development headers)
+libxtst6-dbg - X11 Record extension library (debug package)
+libxv-dev - X11 Video extension library (development headers)
+libxv1-dbg - X11 Video extension library (debug package)
+libxvmc-dev - X11 Video extension library (development headers)
+libxvmc1-dbg - X11 Video extension library (debug package)
+libxxf86dga-dev - X11 Direct Graphics Access extension library (development headers)
+libxxf86dga1-dbg - X11 Direct Graphics Access extension library (debug package)
+libxxf86misc-dev - X11 XFree86 miscellaneous extension library (development headers)
+libxxf86misc1-dbg - X11 XFree86 miscellaneous extension library (debug package)
+libxxf86vm-dev - X11 XFree86 video mode extension library (development headers)
+libxxf86vm1-dbg - X11 XFree86 video mode extension library (debug package)
+aften - audio AC3 encoder
+albumshaper - Photo album creator and photo manipulator
+ale - synthetic capture engine and renderer
+ant-phone - An interactive ISDN telephone application
+asclock - A clock designed with the NeXTStep look
+asylum - surreal platform shooting game
+audacity - A fast, cross-platform audio editor
+audacity-data - A fast, cross-platform audio editor (data)
+audacity-dbg - A fast, cross-platform audio editor (debug)
+autopsy - graphical interface to SleuthKit
+avida-base - Auto-adaptive genetic system for Artificial Life research
+avida-qt-viewer - qt viewer for avida
+avida-viewer - ncurses viewer for avida
+awn-applets-c-extras - A collection of applets for avant-window-navigator
+bibletime - A bible study tool for Qt
+bitmeter - diagnosis tool for JACK audio software
+boinc-app-milkyway - Milkyway@home application for the BOINC client
+brutefir - a software convolution engine
+bsign - Corruption & intrusion detection using embedded hashes
+bugs-everywhere - distributed bug tracking system using VCS storage
+buici-clock - attractive desktop clock
+bzr-fastimport - Fast-import/fast-export plugin for Bazaar
+bzr-git - Bazaar plugin providing Git integration
+calcoo - Scientific calculator (GTK+)
+callgit - lookup callsigns at qrz.com
+camera.app - GNUstep application for digital still cameras
+cellwriter - grid-entry handwriting input panel
+cia-clients - clients scripts for CIA commit notification on IRC
+claws-mail-pgpinline - PGP/inline plugin for Claws Mail
+comedi-source - Comedi kernel module source
+concordance - Harmony remote configuration tool
+confluence - language for synchronous reactive hardware system design
+congruity - graphical utility to configure Logitech Harmony remotes
+coriander - control IEEE1394 digital camera
+cthumb - A program to generate themable Web picture albums
+cvs2svn - Convert a cvs repository to a subversion, bazaar or git repository
+darcsweb - web interface for browsing darcs repositories
+darts - C++ Template Library for implementation of Double-Array
+dballe - Database for punctual meteorological data (Command line tools)
+dbtoepub - DocBook XML to .epub converter
+dclock - Digital clock for the X Window System with flexible display
+debian-keyring - GnuPG (and obsolete PGP) keys of Debian Developers
+dicomscope - The OFFIS DICOM Viewer
+dict-gazetteer2k-counties - Counties Database for the 2000 US Gazetteer
+dict-gazetteer2k-places - Places Database for the 2000 US Gazetteer
+dict-gazetteer2k-zips - ZIP and ZCTA database for the 2000 US Gazetteer
+diffuse - graphical tool for merging and comparing text files
+digikam-doc - handbook for digikam and showfoto in several languages
+digitemp - read temperature sensors in a 1-Wire net
+digitools - A set of tools to control ASUS Digimatrix embedded hardware
+ditz - distributed issue tracker
+drac - Dynamic Relay Authorization Control (pop-before-smtp)
+drawmap - draws customized maps, using raw USGS data files
+dvb-apps - Digitial Video Broadcasting (DVB) applications
+dvbackup - backup tool using MiniDV camcorders
+dvgrab - grab digital video data via IEEE1394 and USB links
+dvr - Digital Video Recorder
+eancheck - Check digit validator for EAN/PLU/UPC barcode numbers
+easygit - git for mere mortals
+easyh10 - Utility to manage the iRiver H10 music player
+elfsign - ELF binary signing and verification utilities
+elisa - The Elisa media center application (transitional package)
+emdebian-archive-keyring - GnuPG archive keys for the emdebian repository
+engauge-digitizer - interactively extracts numbers from bitmap graphs or maps
+engauge-digitizer-doc - engauge-digitizer user manual and tutorial
+esound - Enlightened Sound Daemon - Support binaries
+exif - command-line utility to show EXIF information in JPEG files
+exifprobe - Read metadata from digital pictures
+exiftags - Utility to read Exif tags from a digital camera JPEG file
+exiftran - transform digital camera jpeg images
+fdclock - freedesktop.org clock
+fldigi - digital modem program for hamradio operators
+flphoto - Image manager with great printing functionality
+focal - Interpreter for FOCAL programming language
+fotoxx - easy-to-use digital photo editor
+freej - vision mixer
+g15daemon - Screen multiplexer for Logitech G15 Keyboard
+g15daemon-audacious - G15daemon Audacious visualization plug-in
+g15macro - A simple Macro recording/playback application for G15Daemon
+g15stats - a CPU/Memory/Swap usage meter for G15Daemon
+gargoyle-free - graphical player for Interactive Fiction games
+gcb - Utility to calculate long and short path to a location
+geda - GPL EDA -- Electronics design software (metapackage)
+geda-doc - GPL EDA -- Electronics design software (documentation)
+geda-examples - GPL EDA -- Electronics design software (example designs)
+geda-gattrib - GPL EDA -- Electronics design software (attribute editor)
+geda-gnetlist - GPL EDA -- Electronics design software (netlister)
+geda-gschem - GPL EDA -- Electronics design software (schematic editor)
+geda-gsymcheck - GPL EDA -- Electronics design software (symbol checker)
+geda-symbols - GPL EDA -- Electronics design software (symbols library)
+geda-utils - GPL EDA -- Electronics design software (utilities)
+giggle - Gtk+ frontend for the git directory tracker
+giggle-personal-details-plugin - Gtk+ frontend for the git directory tracker - personal details plugin
+giggle-terminal-view-plugin - Gtk+ frontend for the git directory tracker - terminal plugin
+gimp-dcraw - GIMP plug-in for loading RAW digital photos
+gimp-dimage-color - GIMP plugin to convert Minolta DiMAGE pictures to sRGB colour space
+gimp-ufraw - gimp importer for raw camera images
+git-buildpackage - Suite to help with Debian packages in Git repositories
+git-cola - highly caffeinated git gui
+git-load-dirs - Import upstream archives into git
+gitg - git repository viewer for gtk+/GNOME
+gitmagic - guide about Git version control system
+gitosis - git repository hosting application
+gitpkg - tools for maintaining Debian packages with git
+gitstats - statistics generator for git repositories
+gmfsk - MFSK, RTTY and other digital mode terminal for HF/amateur radio
+gmp-ecm - Factor integers using the Elliptic Curve Method
+gmult - figure out which letters are which numbers
+gnuradio-gpio - GNU Radio Streaming Digital Application
+gpe-clock - alarm clock tray applet for GPE
+gphoto2 - The gphoto2 digital camera command-line client
+gphotofs - filesystem to mount digital cameras
+gpscorrelate - correlates digital photos with GPS data filling EXIF fields (command line)
+gpscorrelate-gui - correlates digital photos with GPS data filling EXIF fields (GUI)
+grads - Grid Analysis and Display System for earth science data
+gramofile - Transfer sound from gramophone records to CD
+gtkam - application for retrieving media from digital cameras
+gtkam-dbg - GTK+ application for digital still cameras (debugging symbols)
+gtkam-gimp - gtkam gimp plugin to open digital camera pictures
+gtkmorph - Digital image warp and morph (gtk)
+gtkmorph-example - digital image warp and morph, examples
+gtkwave - a VCD (Value Change Dump) file waveform viewer
+gui-apt-key - Graphical Key Manager for APT
+guilt - quilt for git; similar to Mercurial queues
+gurgitate-mail - E-mail processor and filter with configuration files in ruby
+gwc - Audio file denoiser
+hdhomerun-config - Configuration utility for Silicon Dust HD HomeRun
+hdhomerun-config-gui - GUI Configuration utility for Silicon Dust HD HomeRun
+icedax - Creates WAV files from audio CDs
+icewm - wonderful Win95-OS/2-Motif-like window manager
+icewm-common - wonderful Win95-OS/2-Motif-like window manager
+icewm-experimental - wonderful Win95-OS/2-Motif-like window manager
+icewm-lite - wonderful Win95-OS/2-Motif-like window manager
+icewm-themes - Theme files for the Ice Window Manager
+igstk-doc - Toolkit for image-guided surgery applications - documentation
+igstk-examples - Toolkit for image-guided surgery applications - examples
+ikiwiki - a wiki compiler
+insighttoolkit3-examples - Image processing toolkit for registration and segmentation - examples
+irssi-plugin-otr - Off-the-Record Messaging Plugin for Irssi
+jhead - manipulate the non-image part of Exif compliant JPEG files
+jpegpixi - Remove hot spots from JPEG images with minimal quality loss
+kallery - Image gallery generator for the KDE
+kallery-data - kallery's architecture independent data
+kdc2tiff - convert Kodac kdc files to jpeg or tiff
+kino - Non-linear editor for Digital Video data
+kitsune - Program to solve mathematical problems
+klear - DVB TV viewer and harddisk recorder for KDE
+klogic - digital circuit editor and simulator for KDE
+lavaps - a lava lamp of currently running processes
+liba52-0.7.4 - library for decoding ATSC A/52 streams
+liba52-0.7.4-dev - library for decoding ATSC A/52 streams (development)
+libaften-dev - audio AC3 encoder - development files
+libaften0 - audio AC3 encoder - runtime files
+libalgorithm-checkdigits-perl - Perl extension to generate and test check digits
+libaqhbci17 - library for HBCI online banking
+libbeid2 - library to read identity information from the Belgian electronic ID card
+libbeid2-dbg - library to read identity information from the Belgian eID card (debug)
+libbeid2-dev - development library to read identity information from the Belgian eID card
+libbusiness-creditcard-perl - Validate/generate credit card checksums/names
+libcaptcha-recaptcha-perl - perl implementation of the reCAPTCHA API
+libcojets2-dev - [Physics] COJETS p-p and pbar-p interaction Monte Carlo
+libcojets2-gfortran - [Physics] COJETS p-p and pbar-p interaction Monte Carlo library
+libcomedi0 - Library for Comedi
+libconcord1 - Harmony remote configuration tool - runtime libraries
+libconcord1-dev - Harmony remote configuration tool - development files
+libconfig-gitlike-perl - Perl module for Git-compatible config file parsing
+libcrypt-openssl-dsa-perl - module which implements the DSA signature verification system
+libcrypt-saltedhash-perl - module for handling salted hashes
+libdc1394-utils - utilities for IEEE1394 digital cameras
+libdlna-dev - development files for libdlna
+libdlna0 - DLNA codec library
+libdv-bin - software library for DV format digital video (sample apps)
+libdvb-dev - library to tune and command Digital Video Broadcasting cards
+libecm-dev - Factor integers using the Elliptic Curve Method (library)
+libecm0 - Factor integers using the Elliptic Curve Method (library)
+libexif-gtk-dev - Library providing GTK+ widgets to display/edit EXIF tags (development files)
+libexif-gtk5 - Library providing GTK+ widgets to display/edit EXIF tags
+libexif-ruby - EXIF tag parsing Library for ruby (dummy package)
+libexif-ruby1.8 - EXIF tag parsing Library for ruby1.8
+libexif-ruby1.9.1 - EXIF tag parsing Library for ruby1.9.1
+libffi-ruby - load dynamic libraries, bind functions from within ruby code
+libffi-ruby1.8 - load dynamic libraries, bind functions from within ruby code
+libffi-ruby1.9.1 - load dynamic libraries, bind functions from within ruby code
+libg15-1 - Library for interfacing with the Logitech G15 keyboards
+libg15-dev - Library for interfacing with the Logitech G15 keyboards
+libg15render-dev - Library for interfacing with the Logitech G15 keyboards
+libg15render1 - Library for interfacing with the Logitech G15 keyboards
+libgeda-common - GPL EDA -- Electronics design software (data files)
+libgeda-dev - GPL EDA -- Electronics design software (development files)
+libgeda38 - GPL EDA -- Electronics design software (library files)
+libgeo-coordinates-utm-perl - Perl extension for Latitiude Longitude conversions
+libgeo-helmerttransform-perl - Transformations between coordinates in different datums
+libgeo-postcode-perl - UK Postcode validation and location
+libggi-samples - General Graphics Interface sample programs
+libgii1 - General Input Interface runtime libraries
+libgit-ruby - Ruby implementation of the Git revision control system
+libgit-ruby1.8 - Ruby implementation of the Git revision control system
+libhdhomerun-dev - Development library for Silicon Dust HD HomeRun
+libhdhomerun1 - Library for Silicon Dust HD HomeRun
+libhtml-lint-perl - checker of HTML errors in strings or files
+libhtml-pager-perl - Perl module to handle CGI HTML paging of arbitary data
+libicee-java - Ice-E for Java libraries
+libigstk4 - Toolkit for image-guided surgery applications - runtime
+libigstk4-dev - Toolkit for image-guided surgery applications - development
+libimage-exif-perl - Perl module to extract EXIF information from image files
+libimage-exiftool-perl - Library and program to read and write meta information in multimedia files
+libinsighttoolkit3-dev - Image processing toolkit for registration and segmentation - development
+libinsighttoolkit3.16 - Image processing toolkit for registration and segmentation - runtime
+libkjdsp-java - dsp package for the Light Development Spectrum Analyzer
+libmail-spf-query-perl - query SPF (Sender Policy Framework) to validate mail senders
+libmath-basecalc-perl - Convert numbers between various bases
+libmath-nocarry-perl - Perl extension for no carry arithmetic
+libmetadata-extractor-java - JPEG metadata extraction framework
+libmetadata-extractor-java-doc - Documentation for the JPEG metadata extraction framework
+libmorph - digital image warping library
+libmorph-dev - digital image warping library (development files)
+libmusicbrainz-ruby1.8 - Ruby interface to musicbrainz
+libnet-dpap-client-perl - Connect to iPhoto shares (DPAP)
+libnet-github-perl - Perl interface for GitHub
+libnjb-cil - CLI binding for libnjb
+libopenraw-dev - free implementation for RAW decoding - development files
+libopenraw1 - free implementation for RAW decoding
+libopenraw1-dbg - debugging symbols for libopenraw
+libopenrawgnome-dev - GNOME integration for libopenraw - development files
+libopenrawgnome1 - free implementation for RAW decoding (GNOME integration)
+libopenrawgnome1-dbg - debugging symbols for libopenrawgnome
+libotpw-dev - OTPW library development files and documentation
+libpam-otpw - Use OTPW for PAM authentication
+libpar-dist-perl - perl module to create and manipulate PAR distributions
+libphobos-4.3-dev - The phobos D standard library
+libproj-dev - Cartographic projection library (development files)
+libproj0 - Cartographic projection library
+libqd-dev - Double-double and quad double types in C++ and F90
+libqd2c2a - Double-double and quad double types in C++ and F90
+libqrencode-dev - QR Code encoding library -- development
+libqrencode3 - QR Code encoding library
+libstring-koremutake-perl - Convert to/from Koremutake Memorable Random Strings
+libstring-mkpasswd-perl - Perl module implementing a random password generator
+libtime-format-perl - CPAN's Time::Format module for easy date/time formatting
+libtvanytimeapi-java - Java API for parsing, manipulating and creating TV-Anytime metadata
+libusrp-dev - Client side library for the USRP(1) hardware
+libusrp0 - Client side library for the USRP(1) hardware
+libusrp2-0 - Client side library for the USRP2 hardware
+libusrp2-dev - Client side library for the USRP2 hardware
+libvideo-frequencies-perl - Many, many frequency constants and lists
+libxfontp-dev - X11 font rasterisation library with Xprint support (development headers)
+libxfontp1 - X11 font rasterisation library with Xprint support
+libxfontp1-dbg - X11 font rasterisation library with Xprint support (debug package)
+libyadis-ruby - Yadis service discovery library for Ruby
+libyadis-ruby1.8 - Yadis service discovery library for Ruby 1.8
+lifeograph - Private digital diary
+linpsk - Program for operating PSK31/RTTY modes with X GUI
+logitech-applet - Logitech mouse tweaking utility
+lomoco - Logitech Mouse Control for USB mice
+lxpanel - a lightweight desktop panel for X
+magit - A Emacs interface for Git
+matroxset - switch output modes, including TV out, of Matrox video cards
+me-tv - Me TV, it's TV for me computer
+med-imaging - Debian Med imaging packages
+mediatomb - UPnP MediaServer (main package)
+mediatomb-common - UPnP MediaServer (base package)
+mediatomb-daemon - UPnP MediaServer (daemon package)
+metacam - extract EXIF information from digital camera files
+metastore - Store and restore metadata from a filesystem
+meterbridge - A collection of Audio meters for the JACK audio server
+mffm-timecode-dev - c++ hierarchy which controls and describes time code
+milter-greylist - Greylist milter for sendmail
+mixxx - Digital Disc Jockey Interface
+mixxx-data - Digital Disc Jockey Interface -- data files
+moap - Swiss army knife for project maintainers and developers
+moovida - The Moovida media center application
+moovida-plugins-bad - Moovida plugins from the "bad" set
+moovida-plugins-good - Moovida plugins from the "good" set
+moovida-plugins-ugly - Moovida plugins from the "ugly" set
+mr - a Multiple Repository management tool
+mrwtoppm - tool to convert Minolta DiMAGE 5/7/7i RAW images to PPM
+mrwtoppm-data - tone curves and colormaps for mrwtoppm
+mrwtoppm-gimp - GIMP-plugin to support Minolta DiMAGE 5/7/7i RAW images
+mrwtoppm-utils - various utilities manipulating Minolta DiMAGE 5/7/7i RAW image files
+mt-daapd - iTunes-compatible DAAP server
+mtp-tools - Media Transfer Protocol (MTP) library tools
+mtpaint - painting program to create pixel art and manipulate digital photos
+mtpfs - FUSE filesystem for Media Transfer Protocol devices
+multimon - Linux Radio Transmission Decoder
+nictools-nopci - Diagnostic tools for many non-PCI ethernet cards
+nictools-pci - Diagnostic tools for many PCI ethernet cards
+nxtvepg - Nextview EPG decoder and browser
+octave-communications - communications package for Octave
+octave-communications-common - communications package for Octave (arch-indep files)
+omfs-source - Optimized MPEG Filesystem (OMFS) Linux kernel driver [source]
+otp - Generator for One Time Passwords
+otpw-bin - OTPW programs for generating OTPW lists
+pct-scanner-scripts - scan and create merged DjVu and PDF documents for archiving
+pencam - Download images from STV0680B-001 chip based digital cameras
+phaseshift - PSK31 terminal for X11
+photoml - An XML DTD and tools for describing photographic metadata
+photon - a static HTML gallery generator
+photopc - Interface to digital still cameras
+photoprint - Image printing utility
+php5-geoip - GeoIP module for php5
+pi - Compute Archimedes' constant Pi to arbitrary precision
+pocketsphinx-hmm-tidigits - lightweight speech recognition - TIDIGITS models
+pop-before-smtp - watch log for POP/IMAP auth, notify MTA to allow relay
+popfile - email classification tool
+proj - Cartographic projection filter and library (transitional package)
+proj-bin - Cartographic projection library (tools)
+proj-data - Cartographic projection filter and library (transitional package)
+proj-ps-doc - PostScript docs for cartographic projection filters and library
+project-x - DVB demuxing tool
+pyecm - Integer factorization with the Elliptic Curve Method (ECM)
+python-coherence - Python UPnP framework
+python-dulwich - Pure-python Git library
+python-git - Python library to interact with Git repositories
+python-insighttoolkit3 - Image processing toolkit for registration and segmentation - Python bindings
+python-libconcord - Harmony remote configuration tool - Python bindings
+python-moovida - Python library for the Moovida media center application
+python-mpmath - library for arbitrary-precision floating-point arithmetic
+python-mpmath-doc - library for arbitrary-precision floating-point arithmetic - Documentation
+python-musicbrainz - Second generation incarnation of the CD Index - Python bindings
+python-oss - Open Sound System (OSS) interface for Python
+python-pyproj - python interface to the PROJ.4 library
+python-pyproj-data - python interface to the PROJ.4 library (projection data)
+python-rope - Python refactoring library
+qc-usb-source - source for the QuickCam Express driver
+qcam - QuickCam image grabber
+qct - GUI commit tool
+qgit - Qt application for viewing GIT trees
+qtdmm - GUI for digital multimeter
+r-cran-bayesm - GNU R package for Bayesian inference
+r-cran-catools - GNU R package providing various utility functions
+r-cran-effects - GNU R graphical and tabular effects display for glm models
+r-cran-mcmcpack - GNU R routines for Markov chain Monte Carlo model estimation
+r-cran-msm - GNU R Multi-state Markov and hidden Markov models in continuous time
+r-cran-pscl - GNU R package for discrete data models
+r-cran-sandwich - GNU R package for model-robust standard error estimates
+r-cran-vgam - GNU R package for estimating vector generalized additive models
+rawstudio - RAW image converter
+rawstudio-dbg - RAW image converter - debuggin symbols
+resample - Resamples a sound file using a FIR filter
+scalpel - A Frugal, High Performance File Carver
+sd - peer-to-peer bug tracker
+shotwell - digital photo organizer
+siggen - Waveform generation tools
+sigit - A small utility to change signatures randomly
+smilutils - Digital Video command line utilities
+snooper - Captures communication between two external serial devices
+spambayes - Python-based spam filter using statistical analysis
+spamoracle - A statistical analysis spam filter based on Bayes' formula
+spamprobe - Bayesian spam filter
+sputnik-storage-git - Storage module for the sputnik wiki
+stgit - manage stacks of patches in a git repository
+stgit-contrib - set of contributed script to help working with stgit
+sunclock - fancy clock showing time and geographical data
+sunclock-maps - sunclock vector graphic maps
+syrep - A generic file repository synchronization tool
+tailor - migrate changesets between version control systems
+tcl8.4-insighttoolkit3 - Image processing toolkit for registration and segmentation - Tcl bindings
+tcllib - the Standard Tcl Library
+terminatorx - realtime audio synthesizer
+testdisk - Partition scanner and disk recovery tool
+thunar-thumbnailers - thumbnailers for Thunar file manager
+ticgit - ticketing system built on Git
+ticgitweb - web interface to ticgit
+tig - ncurses-based Git repository browser
+tkgate - Event driven digital circuit simulator with Tcl/Tk
+tkgate-data - Event driven digital circuit simulator with Tcl/Tk
+tkgate-doc - Event driven digital circuit simulator with Tcl/Tk
+topgit - a Git patch queue manager
+trac-git - Git version control backend for Trac
+trustedqsl - QSL log signing for the Logbook of the World (LoTW)
+ttf-adf-accanthis - Accanthis font of the Arkandis Digital Foundry
+ttf-adf-baskervald - Baskervald font of the Arkandis Digital Foundry
+ttf-adf-berenis - Berenis font of the Arkandis Digital Foundry
+ttf-adf-gillius - Gillius font of the Arkandis Digital Foundry
+ttf-adf-ikarius - Ikarius font of the Arkandis Digital Foundry
+ttf-adf-irianis - Irianis font of the Arkandis Digital Foundry
+ttf-adf-libris - Libris font of the Arkandis Digital Foundry
+ttf-adf-mekanus - Mekanus font of the Arkandis Digital Foundry
+ttf-adf-oldania - Oldania font of the Arkandis Digital Foundry
+ttf-adf-romande - Romande font of the Arkandis Digital Foundry
+ttf-adf-switzera - Switzera font of the Arkandis Digital Foundry
+ttf-adf-tribun - Tribun font of the Arkandis Digital Foundry
+ttf-adf-universalis - Universalis font of the Arkandis Digital Foundry
+ttf-adf-verana - Verana font of the Arkandis Digital Foundry
+ttf-gfs-artemisia - Greek font (Times Greek-like)
+ttf-gfs-baskerville - Ancient Greek font revival
+ttf-gfs-bodoni-classic - Smart Greek typeface revival
+ttf-gfs-complutum - ancient Greek font revival from the University of Alcalá, Spain
+ttf-gfs-didot - Greek font family (Didot revival)
+ttf-gfs-didot-classic - Greek font family (Classic Didot revival)
+ttf-gfs-gazis - ancient Greek font (Byzantine cursive hand style)
+ttf-gfs-neohellenic - new Greek font family with matching Latin
+ttf-gfs-olga - ancient Greek oblique font revival (companion to GFS Didot)
+ttf-gfs-solomos - ancient Greek oblique font
+ttf-gfs-theokritos - decorative Greek font
+ttf-levien-typoscript - classic ATF Typo Script revival font
+tumgreyspf - external policy checker for the postfix mail server
+ufraw - standalone importer for raw camera images
+upnp-inspector - Python UPnP framework analyser
+vdr - Video Disk Recorder for DVB cards
+vdr-dev - Video Disk Recorder for DVB cards
+vdr-plugin-examples - Plugins for vdr to show some possible features
+vdr-plugin-lcdproc - Plugin to vdr that connects to lcdproc
+vdr-plugin-sky - Plugin for using a Sky Digibox with vdr
+wesnoth-1.8-httt - "Heir to the Throne" official campaign for Wesnoth (branch 1.8)
+wesnoth-httt - "Heir to the Throne" official campaign for Wesnoth
+wing - Galaga-like arcade game
+wing-data - graphics and audio data for wing
+wmaloader - firmware downloader for Linksys WMA11B media adapter
+wmmoonclock - WindowMaker moon phase dockapp
+wmsun - Dockable WindowMaker SunRise/SunSet App
+wmtime - Window Maker dockapp that displays the time and date
+wotsap - OpenPGP Web of Trust analyzer and pathfinder
+xchat-otr - Off-the-Record Messaging Plugin for X-Chat
+xdaliclock - Melting digital clock
+xfig-libs - XFig image libraries and examples
+xfonts-intl-arabic - International fonts for X -- Arabic
+xiphos - environment for Bible reading, study, and research
+xmms2-plugin-daap - XMMS2 - daap plug-in
+xmorph - digital image warp and morph (x11)
+xoscope - digital oscilloscope
+xpmutils - X11 pixmap utilities
+xsensors - A hardware health information viewer
+xwax - open-source vinyl emulation software for Linux
+xwelltris - 3D Tetris like popular game similar to Welltris
+zoph - Web based digital image presentation and management system
+jhove - JSTOR/Harvard Object Validation Environment
+libydpdict2 - a library for reading Collins dictionaries
+libydpdict2-dev - a library for reading Collins dictionaries - development files
+mythmusic - Music add-on module for MythTV
+transcode - Utility to encode raw video/audio streams
+transcode-doc - Documentation for transcode
+transcode-utils - Transcode utility programs
+ydpdict - interface for Collins and Langenscheidt dictionaries
+devscripts - scripts to make the life of a Debian Package maintainer easier
+etckeeper - store /etc in git, mercurial, bzr or darcs
+f-spot - personal photo management application
+git-core - fast, scalable, distributed revision control system
+git-doc - fast, scalable, distributed revision control system (documentation)
+gitk - fast, scalable, distributed revision control system (revision tree visualizer)
+gnupg - GNU privacy guard - a free PGP replacement
+gnupg-agent - GNU privacy guard - password agent
+gnupg-curl - GNU privacy guard - a free PGP replacement (cURL)
+gnupg2 - GNU privacy guard - a free PGP replacement (new v2.x)
+kamera - digital camera support for KDE 4 applications
+kdegraphics-strigi-plugins - graphics file format plugins for Strigi Desktop Search
+libdjvulibre-dev - Development files for the DjVu image format
+libexif-dev - library to parse EXIF files (development files)
+libexif12 - library to parse EXIF files
+libfreetype6 - FreeType 2 font engine, shared library files
+libfreetype6-dev - FreeType 2 font engine, development files
+libotr2 - Off-the-Record Messaging library
+libotr2-dev - Off-the-Record Messaging library development files
+libxfont-dev - X11 font rasterisation library (development headers)
+libxfont1 - X11 font rasterisation library
+libxfont1-dbg - X11 font rasterisation library (debug package)
+modemmanager - D-Bus service for managing modems
+python-imaging-sane - Python Imaging Library - SANE interface
+python-imaging-sane-dbg - Python Imaging Library - SANE interface (debug extension)
+totem - A simple media player for the GNOME desktop based on GStreamer
+ardour - digital audio workstation (graphical gtk2 interface)
+ardour-i686 - digital audio workstation (graphical gtk2 interface) [i686]
+debian-archive-keyring - GnuPG archive keys of the Debian archive
+flegita - Gnome scan utility
+flegita-gimp - Gnome Gimp scan plugin.
+git-arch - fast, scalable, distributed revision control system (arch interoperability)
+git-cvs - fast, scalable, distributed revision control system (cvs interoperability)
+git-daemon-run - fast, scalable, distributed revision control system (git-daemon service)
+git-email - fast, scalable, distributed revision control system (email add-on)
+git-gui - fast, scalable, distributed revision control system (GUI)
+git-svn - fast, scalable, distributed revision control system (svn interoperability)
+gitweb - fast, scalable, distributed revision control system (web interface)
+gpgsm - GNU privacy guard - S/MIME version
+kgb-client - client for KGB (IRC collaboration bot)
+kgb-client-git - client for KGB (IRC collaboration bot) - Git support
+libnss3-tools - Network Security Service tools
+libopensc2 - Smart card library with support for PKCS#15 compatible smart cards
+libopensc2-dev - OpenSC development files
+libotr2-bin - toolkit for Off-the-Record Messaging library
+libxml-security-c-dev - C++ library for XML Digital Signatures (development)
+libxml-security-c15 - C++ library for XML Digital Signatures (runtime)
+mercurial-git - Git plugin for Mercurial
+opensc - Smart card utilities with support for PKCS#15 compatible cards
+oss4-base - Open Sound System - base package
+oss4-gtk - Open Sound System - simple GTK2-based mixer control
+pidgin-otr - Off-the-Record Messaging plugin for pidgin
+postgrey - greylisting implementation for Postfix
+redmine - flexible project management web application
+seamonkey-mailnews - Seamonkey Mail & Newsgroups and Address Book
+tvtime - television display application
